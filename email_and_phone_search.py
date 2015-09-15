@@ -42,7 +42,5 @@ if (len(matches) > 0):
 else:
 	print('No numbers or emails found.')
 
-# TODO: paste results to clipboard
-
 
 
